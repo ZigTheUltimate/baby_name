@@ -26,7 +26,6 @@ class MyHomePage extends StatefulWidget {
   @override
   _MyHomePageState createState() {
     return _MyHomePageState();
-
   }
 }
 
