@@ -2,7 +2,7 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 
 void main() => runApp(MyApp());
-
+//hey
 final dummySnapshot = [
   {"name": "Filip", "votes": 15},
   {"name": "Abraham", "votes": 14},
@@ -10,7 +10,7 @@ final dummySnapshot = [
   {"name": "Ike", "votes": 10},
   {"name": "Justin", "votes": 1},
 ];
-
+// this is baby names
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
